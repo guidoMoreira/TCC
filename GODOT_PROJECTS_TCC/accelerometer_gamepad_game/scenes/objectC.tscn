@@ -1,0 +1,50 @@
+[gd_scene load_steps=10 format=2]
+
+[ext_resource path="res://scenes/objectC.gd" type="Script" id=1]
+[ext_resource path="res://Modelos/Props/barril1.glb" type="PackedScene" id=2]
+[ext_resource path="res://Modelos/Props/caixa2.glb" type="PackedScene" id=3]
+[ext_resource path="res://Modelos/Props/cesto1.glb" type="PackedScene" id=4]
+[ext_resource path="res://Modelos/Props/jarra1.glb" type="PackedScene" id=5]
+[ext_resource path="res://Modelos/Props/caixa1.glb" type="PackedScene" id=6]
+[ext_resource path="res://Modelos/Props/saco1.glb" type="PackedScene" id=7]
+[ext_resource path="res://Textura/blurAuxilio.png" type="Texture" id=8]
+
+[sub_resource type="BoxShape" id=1]
+extents = Vector3( 0.157299, 0.127724, 0.176282 )
+
+[node name="objectC" type="KinematicBody"]
+script = ExtResource( 1 )
+
+[node name="CollisionShape" type="CollisionShape" parent="."]
+shape = SubResource( 1 )
+
+[node name="assets" type="Spatial" parent="."]
+transform = Transform( 0.390053, 0, 0, 0, 0.390053, 0, 0, 0, 0.390053, 0, 0, 0 )
+
+[node name="barril1" parent="assets" instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0.0951348, 0, 0 )
+visible = false
+
+[node name="caixa2" parent="assets" instance=ExtResource( 3 )]
+transform = Transform( 1.40805, 0, 0, 0, 1.40805, 0, 0, 0, 1.40805, -0.0184094, 0.0263968, 0 )
+visible = false
+
+[node name="cesto1" parent="assets" instance=ExtResource( 4 )]
+transform = Transform( 1.43605, 0, 0, 0, -8.98696e-08, -1.43605, 0, 2.05598, -6.27719e-08, 0.0967741, -0.0683014, -0.0722294 )
+visible = false
+
+[node name="caixa1" parent="assets" instance=ExtResource( 6 )]
+transform = Transform( -4.62826e-08, 0, 1.17659, 0, 1.17659, 0, -1.05882, 0, -5.14303e-08, 0.0929629, 0, -4.06354e-09 )
+visible = false
+
+[node name="jarra1" parent="assets" instance=ExtResource( 5 )]
+transform = Transform( 2.27707, 0, 0, 0, -9.95339e-08, -2.27707, 0, 2.27707, -9.95339e-08, 0.0890949, -0.0626843, -0.227164 )
+visible = false
+
+[node name="saco1" parent="assets" instance=ExtResource( 7 )]
+transform = Transform( 1.53726, 0, 0, 0, -6.71959e-08, -1.53726, 0, 1.53726, -6.71959e-08, 0.0651768, 3.85185e-09, -0.0653833 )
+visible = false
+
+[node name="SpriteAuxilio" type="Sprite3D" parent="assets"]
+transform = Transform( 3.69387, 0, 0, 0, 3.60148, 0, 0, 0, 3.29387, 0, 0, 0 )
+texture = ExtResource( 8 )

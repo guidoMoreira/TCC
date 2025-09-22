@@ -1,0 +1,28 @@
+{
+ "daniel": [
+  {
+   "angulo max": 171.278351,
+   "angulo min": 0,
+   "data": "2024-04-05T10:46:57",
+   "delay inimigos": 2,
+   "tamanho objetos": 1,
+   "velocidade objetos": 1
+  },
+  {
+   "data": "2024-05-13T21:49:45",
+   "delay inimigos": 2,
+   "velocidade objetos": 1,
+   "tamanho objetos": 1,
+   "angulo max": 180,
+   "angulo min": 0
+  },
+  {
+   "data": "2024-05-15T20:23:39",
+   "delay inimigos": 2,
+   "velocidade objetos": 1,
+   "tamanho objetos": 1,
+   "angulo max": 180,
+   "angulo min": 0
+  }
+ ]
+}

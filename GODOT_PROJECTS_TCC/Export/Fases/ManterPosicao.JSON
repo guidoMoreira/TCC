@@ -1,0 +1,100 @@
+{
+ "desafio": [
+  {
+   "angulo": 90,
+   "tempo": 1,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": 0,
+   "ponto": 3
+  },
+  {
+   "angulo": 90,
+   "tempo": 2,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": 0,
+   "ponto": 1
+  },
+  {
+   "angulo": 90,
+   "tempo": 3,
+   "velocidade": 1,
+   "tamanho": 2,
+   "asset": 1,
+   "ponto": 1
+  },
+  {
+   "angulo": 180,
+   "tempo": 4,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 180,
+   "tempo": 4.5,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 180,
+   "tempo": 5,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 135,
+   "tempo": 5.5,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 135,
+   "tempo": 6,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 135,
+   "tempo": 6.5,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 90,
+   "tempo": 7,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 90,
+   "tempo": 7.5,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 90,
+   "tempo": 8,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  }
+ ]
+}

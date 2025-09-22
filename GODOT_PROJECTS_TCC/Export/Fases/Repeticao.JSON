@@ -1,0 +1,212 @@
+{
+ "desafio": [
+  {
+   "angulo": 0,
+   "tempo": 0,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 180,
+   "tempo": 1,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 45,
+   "tempo": 2,
+   "velocidade": 1,
+   "tamanho": 2,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 135,
+   "tempo": 3,
+   "velocidade": 1,
+   "tamanho": 2,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 45,
+   "tempo": 4,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": 0,
+   "ponto": 1
+  },
+  {
+   "angulo": 115,
+   "tempo": 5,
+   "velocidade": 1,
+   "tamanho": 2,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 0,
+   "tempo": 6,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 115,
+   "tempo": 7,
+   "velocidade": 1,
+   "tamanho": 2,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 60,
+   "tempo": 8,
+   "velocidade": 1,
+   "tamanho": 2,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 180,
+   "tempo": 9,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 60,
+   "tempo": 10,
+   "velocidade": 1,
+   "tamanho": 2,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 115,
+   "tempo": 11,
+   "velocidade": 1,
+   "tamanho": 2,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 0,
+   "tempo": 12,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 180,
+   "tempo": 13,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 0,
+   "tempo": 14,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 180,
+   "tempo": 15,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 0,
+   "tempo": 16,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 90,
+   "tempo": 17,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 180,
+   "tempo": 18,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 90,
+   "tempo": 19,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 180,
+   "tempo": 20,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 90,
+   "tempo": 21,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 0,
+   "tempo": 22,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 90,
+   "tempo": 23,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 0,
+   "tempo": 24,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  },
+  {
+   "angulo": 90,
+   "tempo": 25,
+   "velocidade": 1,
+   "tamanho": 1,
+   "asset": -1,
+   "ponto": 1
+  }
+ ]
+}

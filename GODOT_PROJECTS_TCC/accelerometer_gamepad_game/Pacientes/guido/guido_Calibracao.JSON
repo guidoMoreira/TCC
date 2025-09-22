@@ -1,0 +1,124 @@
+{
+ "guido": [
+  {
+   "angulo max": 180,
+   "angulo min": 0,
+   "data": "2024-04-04T20:09:36",
+   "delay inimigos": 2,
+   "tamanho objetos": 1,
+   "velocidade objetos": 1
+  },
+  {
+   "angulo max": 180,
+   "angulo min": 0,
+   "data": "2024-04-04T20:10:38",
+   "delay inimigos": 2,
+   "tamanho objetos": 1,
+   "velocidade objetos": 1
+  },
+  {
+   "angulo max": 180,
+   "angulo min": 0,
+   "data": "2024-04-04T20:13:21",
+   "delay inimigos": 2,
+   "tamanho objetos": 1,
+   "velocidade objetos": 1
+  },
+  {
+   "angulo max": 180,
+   "angulo min": 0,
+   "data": "2024-04-04T20:15:05",
+   "delay inimigos": 2,
+   "tamanho objetos": 1,
+   "velocidade objetos": 1
+  },
+  {
+   "angulo max": 180,
+   "angulo min": 0,
+   "data": "2024-04-04T20:16:15",
+   "delay inimigos": 2,
+   "tamanho objetos": 1,
+   "velocidade objetos": 1
+  },
+  {
+   "angulo max": 180,
+   "angulo min": 0,
+   "data": "2024-04-04T20:17:57",
+   "delay inimigos": 2,
+   "tamanho objetos": 1,
+   "velocidade objetos": 1
+  },
+  {
+   "angulo max": 180,
+   "angulo min": 0,
+   "data": "2024-04-04T21:13:02",
+   "delay inimigos": 2,
+   "tamanho objetos": 1,
+   "velocidade objetos": 1
+  },
+  {
+   "angulo max": 180,
+   "angulo min": 0,
+   "data": "2024-04-04T21:16:54",
+   "delay inimigos": 2,
+   "tamanho objetos": 1,
+   "velocidade objetos": 1
+  },
+  {
+   "angulo max": 158.66,
+   "angulo min": 64.76,
+   "data": "2024-04-10T10:31:47",
+   "delay inimigos": 2,
+   "tamanho objetos": 1,
+   "velocidade objetos": 1
+  },
+  {
+   "data": "2024-04-18T14:08:48",
+   "delay inimigos": 2,
+   "velocidade objetos": 1,
+   "tamanho objetos": 1,
+   "angulo max": 180,
+   "angulo min": 0
+  },
+  {
+   "data": "2024-04-24T12:03:16",
+   "delay inimigos": 2,
+   "velocidade objetos": 1,
+   "tamanho objetos": 1,
+   "angulo max": 180,
+   "angulo min": 0
+  },
+  {
+   "data": "2024-04-24T13:18:19",
+   "delay inimigos": 2,
+   "velocidade objetos": 1,
+   "tamanho objetos": 1,
+   "angulo max": 180,
+   "angulo min": 0
+  },
+  {
+   "data": "2024-04-24T13:23:01",
+   "delay inimigos": 2,
+   "velocidade objetos": 1,
+   "tamanho objetos": 1,
+   "angulo max": 180,
+   "angulo min": 0
+  },
+  {
+   "data": "2024-04-24T13:26:10",
+   "delay inimigos": 2,
+   "velocidade objetos": 1,
+   "tamanho objetos": 1,
+   "angulo max": 180,
+   "angulo min": 0
+  },
+  {
+   "data": "2024-06-15T13:51:47",
+   "delay inimigos": 1,
+   "velocidade objetos": 1,
+   "tamanho objetos": 2,
+   "angulo max": 180,
+   "angulo min": 0
+  }
+ ]
+}

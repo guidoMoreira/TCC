@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Textura/ui/mira.png" type="Texture" id=1]
+[ext_resource path="res://scenes/AuxilioVisual/AuxSprite.gd" type="Script" id=2]
+
+[node name="AuxSprite" type="Sprite3D"]
+transform = Transform( 0.293584, 0, 0, 0, 0.293584, 0, 0, 0, 0.293584, 0, 0, 0 )
+modulate = Color( 1, 0, 1, 1 )
+texture = ExtResource( 1 )
+script = ExtResource( 2 )
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 3.40618, 0, 0, 0, 3.40618, 0, 0, 0, 3.40618, 0, 0, 0.579152 )

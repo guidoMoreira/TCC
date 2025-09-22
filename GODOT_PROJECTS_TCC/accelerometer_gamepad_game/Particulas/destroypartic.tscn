@@ -1,0 +1,26 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Particulas/destroypartic.gd" type="Script" id=1]
+
+[sub_resource type="SpatialMaterial" id=3]
+albedo_color = Color( 0.333333, 0.247059, 0.168627, 1 )
+
+[sub_resource type="QuadMesh" id=1]
+material = SubResource( 3 )
+
+[sub_resource type="Curve" id=2]
+_data = [ Vector2( 0.0804196, 0.829545 ), 0.0, 0.0, 0, 0, Vector2( 0.884615, 0.0931818 ), 0.0, 0.0, 0, 0 ]
+
+[node name="CPUParticles" type="CPUParticles"]
+emitting = false
+one_shot = true
+explosiveness = 0.8
+local_coords = false
+mesh = SubResource( 1 )
+direction = Vector3( 0, 0, 0 )
+spread = 180.0
+gravity = Vector3( 0, -9.8, 5 )
+initial_velocity = 6.0
+scale_amount = 0.2
+scale_amount_curve = SubResource( 2 )
+script = ExtResource( 1 )
